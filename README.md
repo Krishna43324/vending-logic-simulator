@@ -32,7 +32,7 @@ Formatted Visual Menu: Displays the entire machine inventory in a clean, readabl
 
 ## Setup:
 1. Install the Java Development Kit if not able to execute .java files from this link: https://www.oracle.com/java/technologies/downloads/
-2. Clone the repository by typing ‘git clone https://github.com/Krishna43324/ip-traffic-analyzer.git’
+2. Clone the repository by typing ‘git clone https://github.com/Krishna43324/vending-logic-simulator.git’
 3. Use the terminal to type ‘javac VendingMachine.java’. Press enter and then type ‘java VendingMachine’.
 4. View the options that the vending machine program provides. When receiving the prompt ‘Please enter '1' or '5' to access something in this vending machine.’, type either ‘1’ or ‘5’ to enter a dollar bill before buying an item.
 5. When receiving the prompt ‘Please enter the ID of the candy/chocolate you want.’, type one of the valid options (A1,C3,D4,etc).
